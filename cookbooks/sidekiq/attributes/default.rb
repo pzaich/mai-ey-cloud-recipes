@@ -14,7 +14,7 @@ sidekiq({
   :workers => 1,
 
   # Concurrency
-  :concurrency => 9,
+  :concurrency => 7,
 
   # Queues
   :queues => {

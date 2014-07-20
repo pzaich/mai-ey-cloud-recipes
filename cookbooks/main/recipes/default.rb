@@ -1,4 +1,5 @@
 include_recipe "graphicsmagick"
+include_recipe 'database'
 
 #execute "testing" do
 #  command %Q{
